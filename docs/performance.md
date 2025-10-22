@@ -23,7 +23,7 @@ _Adoptium_ is nice; really, any OpenJDK build provider should be fine.
 
 | AOE Pack | Minecraft version | Java version (tied to MC version) |
 |:-:|:-:|-|
-| ***Craftoria*** | 1.21 | Java21 |
+| ***Craftoria*** | 1.21 | Java21 (runs better on Java25) |
 | **AOF 7** | 1.20 | Java17 (runs better on Java21) |
 | **AOF 6** | 1.19 | Java17 |
 | **AOF 5** | 1.18 | Java17 |
@@ -38,11 +38,16 @@ Around 6–8GB should work well for any AOE modpacks.
 
 | AOE Mod Pack   | Java Args for Client           |
 |:--------------:|--------------------------------|
-| ***Craftoria***|`-XX:+UseZGC -XX:+ZGenerational`|
+| ***Craftoria***|`-XX:+UseZGC -XX:+ZGenerational` (or, with Java25: `-XX:+UseZGC -XX:+UseCompactObjectHeaders` )|
 | **AOF 7**      |`-XX:+UseZGC -XX:+ZGenerational`, with Java21|
+
+These args do the following:
+- `-XX:+UseZGC`: Enables the Z Garbage Collector
+- `-XX:+ZGenerational`: Enables Generational Mode for ZGC - not needed on Java25, as it is now default
+- `-XX:+UseCompactObjectHeaders`: Changes how the JVM stores objects in RAM, reducing memory usage (requires Java25)
 
 #### For Servers
 
-On a server GC through-put may be more valuable than latency—which the default `G1GC` garbage-collector will deliver.
+On a server GC through-put may be more valuable than latency—which the default `G1GC` garbage-collector will deliver. It is recommended to add its arg, `-XX:+UseG1GC`, for redundancy's sake.
 
 ---
