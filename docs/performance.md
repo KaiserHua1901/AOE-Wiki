@@ -38,8 +38,8 @@ Around 6–8GB should work well for any AOE modpacks.
 
 | AOE Mod Pack   | Java Args for Client           |
 |:--------------:|--------------------------------|
-| ***Craftoria***|`-XX:+UseZGC -XX:+ZGenerational` (or, with Java25: `-XX:+UseZGC -XX:+UseCompactObjectHeaders` )|
-| **AOF 7**      |`-XX:+UseZGC -XX:+ZGenerational`, with Java21|
+| ***Craftoria***|`-XX:+UseZGC -XX:+ZGenerational` (Java25: `-XX:+UseZGC -XX:+UseCompactObjectHeaders`)|
+| **AOF 7**      |`-XX:+UseZGC -XX:+ZGenerational` (only for Java21)|
 
 These args do the following:
 - `-XX:+UseZGC`: Enables the Z Garbage Collector
