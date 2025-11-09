@@ -42,9 +42,10 @@ Dimensions!
 1. The Bumblezone
 1. Eternal Starlight
 1. Deeper & Darker: The Otherside
-1. Void (JAVD)
+1. Void (@JAVD)
 1. Compact Machines
-1. Mining dims matching the vanilla ones (JAMD)
+1. Mining dims matching the vanilla ones (@JAMD)
+1. Twilight Forest
 
 ### Other FAQ
 
