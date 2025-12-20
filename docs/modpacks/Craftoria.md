@@ -29,6 +29,7 @@
 ## Craftoria FAQ
 
 ### Setup / Performance
+
 * Use Java 21
 * ~8GB RAM (too much invites longer GC pauses)
 * Try these args: `-XX:+UseZGC -XX:+ZGenerational`
@@ -38,14 +39,20 @@ Mods, so many mods!
 Quests!
 Dimensions!
 
+#### Major Dimensions
+
 1. Vanilla: Overworld, Nether, and The End
-1. The Bumblezone
-1. Eternal Starlight
-1. Deeper & Darker: The Otherside
+2. The Bumblezone
+3. Eternal Starlight
+4. Deeper & Darker: The Otherside
+5. Twilight Forest
+
+#### Utility Dimensions
+
 1. Void (@JAVD)
-1. Compact Machines
-1. Mining dims matching the vanilla ones (@JAMD)
-1. Twilight Forest
+2. Compact Machines
+3. Mining dims matching the vanilla ones (@JAMD)
+4. Spatial Storage (AE2)
 
 ### Other FAQ
 
@@ -71,16 +78,16 @@ Most of the items are craftable, but there's a list of ones that are not:
 #### World Tiers
 The *Apotheosis* mod has a mechanic called "World Tiers."
 
-- Use the default keybind (++ctrl+"T"++) to see the display of world tiers and what each entails.
-- Check the advancement tab (default: ++"L"++) labeled _Apothic World Tiers_ to see how to unlock the next world tier.
+* Use the default keybind (++ctrl+"T"++) to see the display of world tiers and what each entails.
+* Check the advancement tab (default: ++"L"++) labeled *Apothic World Tiers* to see how to unlock the next world tier.
 
 Each world tier unlocks the spawning of higher level mob bosses and the chance to obtain better apothic gear traits.
 
 #### Replicator Black-lists
 To find the items in the blacklist for both the Replicator Mk1 and the Replicator Mk2, search the following for the two blacklists in EMI respectively:
 
-- `#replicator_1_blacklist` for Replicator Mk1
-- `#replicator_blacklist` for Replicator Mk2
+* `#replicator_1_blacklist` for Replicator Mk1
+* `#replicator_blacklist` for Replicator Mk2
 
 ### Whitelisting on our Official Servers
 
@@ -89,31 +96,34 @@ To find the items in the blacklist for both the Replicator Mk1 and the Replicato
     By whitelisting yourself to one of our servers, you agree to the rules.
 
 2. Head over to one of the server channels.
-    -  [#craftoria-eu](https://discord.com/channels/570630340075454474/1254490870808318087)
-    - [#craftoria-eu2](https://discord.com/channels/570630340075454474/1292199371848552548)
-    - [#craftoria-na](https://discord.com/channels/570630340075454474/1282263854922862632))
+    * [#craftoria-eu](https://discord.com/channels/570630340075454474/1254490870808318087)
+    * [#craftoria-eu2](https://discord.com/channels/570630340075454474/1292199371848552548)
+    * [#craftoria-na](https://discord.com/channels/570630340075454474/1282263854922862632)
 
 3. Use the command `/verify` followed by the code you obtain when first attempting to join the server.
 
 !!! question "`/verify`-ed yourself, but still can't get in?"
     1. Use the command `/unverify`, then retry the verification steps.
     2. If Discord is not recognizing your `/verify` command, try **disabling** this setting in Discord:
-        - `Settings` -> `Accessability` -> __`Use the legacy chat input.`__
+        - `Settings` -> `Accessability` -> **`Use the legacy chat input.`**
 
 ### Installing a Server
 
 See [Your Own Server](../../servers/server/)
 
 ### Need further help?
-1. Open a post in our discord forum, [#support](https://discord.com/channels/570630340075454474/1028818900768538695). 
+
+1. Open a post in our discord forum, [#support](https://discord.com/channels/570630340075454474/1028818900768538695).
 2. If you have one, include a crash-report, crash file, or latest log.
 3. Knowledgable players are very welcome to answer questions there too!
 
 ### Found a Bug?
-- Please let us know, with a post in our discord forum, [#bug-reports](https://discord.com/channels/570630340075454474/1028644155305496576)
-- Github repo issues are also welcomed.
+
+* Please let us know, with a post in our discord forum, [#bug-reports](https://discord.com/channels/570630340075454474/1028644155305496576)
+* Github repo issues are also welcomed.
 
 ### Addendum: Permissions
+
 * `ftbchunks.max_claimed` (chunk claim quota)
 * `command.back` (to enable or disable `/back`)
 * `ftbessentials.back.cooldown`
@@ -121,13 +131,14 @@ See [Your Own Server](../../servers/server/)
 * `ftbessentials.home.max`
 
 To alter, use:
-- `/ftbranks node add [rank] [permission] [value(s)]` 
-- `/ftbranks node remove [rank] [permission]`
+
+* `/ftbranks node add [rank] [permission] [value(s)]`
+* `/ftbranks node remove [rank] [permission]`
 
 ## Behind the Scenes Bonus!
 
 ### At Work: Facu
 
-![Facu at Work: _Craftoria's_ cover art](img/Craftoria art progression.gif){align=center}
+![Facu at Work: *Craftoria's* cover art](img/Craftoria art progression.gif){align=center}
 
 ---

@@ -5,7 +5,7 @@ _A Mod about LOGISTICS and AUTOMATION for {--FABRIC 1.18--} EVER!_
 
 ### Fission Reactors
 
-You may find Warbaque's fantastic [Reactor Planner](https://warbaque.github.io/MI-Reactor-Planner) is helpful and fun.  
+You may find Warbaque's fantastic [Reactor Planner](https://warbaque.github.io/MI-Reactor-Planner) is helpful and fun.
 It's [README.md](https://github.com/warbaque/MI-Reactor-Planner/blob/main/README.md) also has good reactor plan solutions for various optimisation goals.
 
 ### High Pressure Loop: Advanced Boiler<sup>*</sup> :material-repeat: Heat Exchanger

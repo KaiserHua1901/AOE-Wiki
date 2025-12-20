@@ -18,9 +18,9 @@ Your log files, crash reports, and error files are helpful, often essential, in 
 1. Go to your game instance's folder
 There should be an `Open Folder` button, or similar, in your launcher.
 2. Look for:
-  - The latest file from the `crash-reports` folder,
-  - The `latest.log` file, form the `logs` folder,
-  - An `hs_err_pidXXXX.log` file
+    - The latest file from the `crash-reports` folder,
+    - The `latest.log` file, form the `logs` folder,
+    - An `hs_err_pidXXXX.log` file
 
 Paste the files you find into [mclo.gs](https://mclo.gs), then share the resulting links when seeking help diagnosing your game's problem.
 
@@ -34,7 +34,7 @@ Paste the files you find into [mclo.gs](https://mclo.gs), then share the resulti
 
 ### How to read them
 
-_< to be written soon >_
+_\< to be written soon \>_
 
 <!--
 ## Editing the World

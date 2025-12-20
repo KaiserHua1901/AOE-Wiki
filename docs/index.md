@@ -20,9 +20,9 @@ Here you can find information about our packs, tips, and how-to's for in-game an
 ??? question "Contribute? *Yes, please!*"
 
      Contributions to this wiki are very welcome.
-     
+
      **Easiest:** click the `Edit This Page` button near the top right of a page.
-     
+
     ??? note "Less Easy at first, but then Easy, for larger work:"
         - Clone your fork locally
         - Install mkdocs-material

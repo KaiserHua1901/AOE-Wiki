@@ -42,29 +42,29 @@ A few things that make early game easier:
 
 - Get a bed
 - Make a **Traveler's Backpack**
-- Find an *amethyst geode* and collect **amethyst blocks**, break them with a **cutting board and pickaxe** to get amethyst. Use that to make 3 trinkets with _Hex Casting_:
-    - **Light Orb**
-    - **Break Block**
-    - **Bonemeal**
+- Find an *amethyst geode* and collect **amethyst blocks**, break them with a **cutting board and pickaxe** to get amethyst. Use that to make 3 trinkets with *Hex Casting*:
+  - **Light Orb**
+  - **Break Block**
+  - **Bonemeal**
 - Make several **Danks**, fill them with probably chest items, then go break all the probably chests underwater. Beware of the mobs underwater—and make sure you slept in your bed.
-- Collect 6 diamonds—3 for the [_MI_](../mods/mi.md) **steam drill**, 2 for the **Big Torch**, and 1 for a _Twilight Forest_ **portal**.
-- Make a **Compressor** from [_Modern Industrialization_](../mods/mi.md). You can use a furnace to cook a bucket of water to make steam, for now.
+- Collect 6 diamonds—3 for the [*MI*](../mods/mi.md) **steam drill**, 2 for the **Big Torch**, and 1 for a *Twilight Forest* **portal**.
+- Make a **Compressor** from [*Modern Industrialization*](../mods/mi.md). You can use a furnace to cook a bucket of water to make steam, for now.
 
 <!-- this comment forces mkdocs to break these lists apart -->
 
-1.  Use the diamond to make the drill from _MI_.
-1.  Use the gold and diamonds to make a **Big Torch** (the _MI_ **Compressor** can turn diamonds into diamond plates).
-1.  Use a diamond to get to the _Twilight Forest_, find an ore dome there, place the **Big Torch** and fill it. Run 128 blocks away, wait 15 seconds, then run back—this will despawn the mobs there and the **Big Torch** will prevent more spawning, allowing easy pillaging with the drill you made.
+1. Use the diamond to make the drill from *MI*.
+2. Use the gold and diamonds to make a **Big Torch** (the *MI* **Compressor** can turn diamonds into diamond plates).
+3. Use a diamond to get to the *Twilight Forest*, find an ore dome there, place the **Big Torch** and fill it. Run 128 blocks away, wait 15 seconds, then run back—this will despawn the mobs there and the **Big Torch** will prevent more spawning, allowing easy pillaging with the drill you made.
 
 Crouching will disable the 3x3 and allow you to veinmine with the drill. make sure to set one of your danks to have glowstone, iron, copper, and coal ore.
 
 !!! quote ""
-    Thanks to _Lingaurdium_ for sharing their early game strategy
+    Thanks to *Lingaurdium* for sharing their early game strategy
 
 ## Behind the Scenes Bonus!
 
 ### At Work: Facu
 
-![Facu at Work: _All of Fabric 6's_ cover art](img/AoF6 art progression.gif){align=center}
+![Facu at Work: *All of Fabric 6's* cover art](img/AoF6 art progression.gif){align=center}
 
 ---
