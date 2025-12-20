@@ -14,9 +14,9 @@ If your game is struggling, try:
 
 _Adoptium_ is nice; really, any OpenJDK build provider should be fine.
 
-- [Adoptium Java 21](https://adoptium.net/?variant=openjdk21&jvmVariant=hotspott): for MC 1.20.5 or later, and [_**Craftoria**_](../modpacks/Craftoria) and [_**All of Fabric 7**_](../modpacks/aof7).
+- [Adoptium Java 21](https://adoptium.net/?variant=openjdk21&jvmVariant=hotspott): for MC 1.20.5 or later, and [_**Craftoria**_](modpacks/Craftoria.md) and [_**All of Fabric 7**_](modpacks/aof7.md).
 
-- [Adoptium Java 17](https://adoptium.net/?variant=openjdk17&jvmVariant=hotspot): for MC 1.17–1.20.4; and _**All of Fabric**_ [**5**](../modpacks/aof5), [**6**](../modpacks/aof6), and [**7**](../modpacks/aof7).
+- [Adoptium Java 17](https://adoptium.net/?variant=openjdk17&jvmVariant=hotspot): for MC 1.17–1.20.4; and _**All of Fabric**_ [**5**](modpacks/aof5.md), [**6**](modpacks/aof6.md), and [**7**](modpacks/aof7.md).
 
 ### Java and Minecraft versions, and our Modpacks
 

@@ -1,7 +1,7 @@
 # Your Own Server
 
 ??? tip "Server? I just want to play with my friends!"
-    Check out [Serverless](less.md)
+    Check out [Sharing](sharing.md)
 
 ## Installing a local server
 

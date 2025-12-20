@@ -109,7 +109,7 @@ To find the items in the blacklist for both the Replicator Mk1 and the Replicato
 
 ### Installing a Server
 
-See [Your Own Server](../../servers/server/)
+See [Your Own Server](../servers/server.md)
 
 ### Need further help?
 

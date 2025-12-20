@@ -10,7 +10,7 @@ _Just the FAQs, ma'am. Just the FAQs._
 </div>
 
 ??? danger "`craftoria.net` is BOGUS"
-    That site is **not** owned or run by us and we do not affiliate with it. It was created by an unknown entity without permission and contains a _lot_ of false information about [_**Craftoria**_](../modpacks/Craftoria).
+    That site is **not** owned or run by us and we do not affiliate with it. It was created by an unknown entity without permission and contains a _lot_ of false information about [_**Craftoria**_](modpacks/Craftoria.md).
 
 ## General FAQ
 

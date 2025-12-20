@@ -11,7 +11,7 @@ You are, of course!, free to add, remove, or update mods for your own instance o
 Your log files, crash reports, and error files are helpful, often essential, in diagnosing what problems your game may be having.
 
 !!! tip inline end "Use _Crash Assistant_ or [mclo.gs](https://mclo.gs)"
-    [_Craftoria_](mods/craftoria) includes the mod _Crash Assistant_.
+    [_Craftoria_](modpacks/Craftoria.md) includes the mod _Crash Assistant_.
     When your game does crash, it should pop-up a window with a helpful button to prepare and share your logs.
     If you are playing on AOE pack with-out _Crash Assistant_, it is still helpful to paste your logs into [mclo.gs](https://mclo.gs), for sharing and for the basic syntax coloring it adds.
 
