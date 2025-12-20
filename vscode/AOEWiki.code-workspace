@@ -22,7 +22,8 @@
       "no-inline-html": false,
       "heading-style": false,
       "first-line-heading": false,
-      "link-fragments": false
+      "link-fragments": false,
+      "table-column-count": false
     },
   }
 }

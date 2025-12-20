@@ -34,7 +34,7 @@ EMI offers special syntax for specific searches...
 |   search phrase: | returns:                   |
 | ---------------: | :------------------------- |
 |    `<foo> <bar>` | `<foo>` *AND* `<bar>`      |
-| `<foo> \| <bar>` | `<foo>` *OR* `<bar>` ^(3)^ |
+| `<foo> | <bar>`  | `<foo>` *OR* `<bar>` ^(3)^ |
 |         `-<foo>` | *NOT* `<foo>`              |
 
 Lastly, [regex](https://en.wikipedia.org/wiki/Regular_expression) search can be had with the form: `/<foo>/`.
