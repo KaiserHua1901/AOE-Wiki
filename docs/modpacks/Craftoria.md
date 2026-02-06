@@ -57,7 +57,7 @@ Dimensions!
 ### Other FAQ
 
 #### Team chat
-Team chat is bound to `u` by default. (`y` in earlier versions). If no one can see your messages, you may have this toggled on.
+Team chat is bound to ++y++. If no one can see your messages, you may have this toggled on.
 
 #### JDT Upgrades
 Use a smithing table to apply them.
