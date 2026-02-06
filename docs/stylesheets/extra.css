@@ -85,6 +85,12 @@
 
     /* hide images that are afraid of the dark(-mode) */  
     img[src$="#only-light"] { display: none; }
+
+    /*fix the keyboard style when on dark mode */
+    kbd {
+    color: black;
+    font-weight: 600;
+    }
      
   }
 }

@@ -78,7 +78,7 @@ Most of the items are craftable, but there's a list of ones that are not:
 #### World Tiers
 The *Apotheosis* mod has a mechanic called "World Tiers."
 
-* Use the default keybind (++ctrl+"T"++) to see the display of world tiers and what each entails.
+* Use the default keybind (++"Ctrl"++ + ++"T"++) to see the display of world tiers and what each entails.
 * Check the advancement tab (default: ++"L"++) labeled *Apothic World Tiers* to see how to unlock the next world tier.
 
 Each world tier unlocks the spawning of higher level mob bosses and the chance to obtain better apothic gear traits.
