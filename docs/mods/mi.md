@@ -54,4 +54,26 @@ What gets moved depends on what can go where.
 For example, if a macerator's input slot has any say, raw iron, in it when the pipe does it's thing, it can't only more raw iron will get moved into it's input slot.
 For macerators, there's two things you can do about this...
 <!-- from blue -->
+### fluid pipe priority 
+tank 1: I/O, priority 10, (full)
+tank 2: I/O, priority 5, (full)
+tank 3: In, priority 0, (empty)
+fluid pipe network 10 pipes (10k mb/t)
+
+1) extract 10k fluid from tank 1 into fluid pipe network
+2) extract 0k fluid from tank 2 into fluid pipe network (network is full)
+3) insert 10k fluid from fluid pipe network to tank 1 (tank 1 is full again)
+4) insert 0k fluid from fluid pipe network to tank 2 (network is empty)
+5) insert 0k fluid from fluid pipe network to tank 3 (network is empty)
+- from Warbaque
+### Item pipe Priority 
+[item pipe pic](img/MI_item_pipe_priority.png)
+the orange transfer happens first then the green transfer happens btw
+
+explanation of the image:
+
+    the priorities in brackets aren't applicable (they do nothing)
+    the orange numbers say in which order items are inserted from the barrel with the orange square
+    the green numbers say in which order items are inserted from the barrel with the green square
+- from Triangular
 ---
