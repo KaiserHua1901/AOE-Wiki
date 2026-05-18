@@ -90,6 +90,8 @@ copyright: Copyright &copy; 2025 Team AOE
 
 nav:
   - Home: index.md
+  - Craftoria Tips & Tricks: 
+      - Resouce Gen: Craftoriatips\Resouce Generate.md
   - Mod Packs:
       - Craftoria: modpacks/Craftoria.md
       #      - FAQ: modpacks/Craftoria/faq.md
